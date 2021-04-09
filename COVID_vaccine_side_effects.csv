@@ -1,0 +1,61 @@
+symptom type,symptom,Vaccine,Dose,number
+any injection site reaction,pain,Pfizer-BioNTech,1,1055604
+any injection site reaction,redness,Pfizer-BioNTech,1,56780
+any injection site reaction,swelling,Pfizer-BioNTech,1,110077
+any injection site reaction,itching,Pfizer-BioNTech,1,62486
+any systemic reaction,fatigure,Pfizer-BioNTech,1,483146
+any systemic reaction,headache,Pfizer-BioNTech,1,409359
+any systemic reaction,myalgia,Pfizer-BioNTech,1,281743
+any systemic reaction,chills,Pfizer-BioNTech,1,116034
+any systemic reaction,fever,Pfizer-BioNTech,1,116951
+any systemic reaction,joint pain,Pfizer-BioNTech,1,123319
+any systemic reaction,nausea,Pfizer-BioNTech,1,114087
+any systemic reaction,vomiting,Pfizer-BioNTech,1,9966
+any systemic reaction,diarrhea,Pfizer-BioNTech,1,83016
+any systemic reaction,abdominal pain,Pfizer-BioNTech,1,47096
+any systemic reaction,rash outside of injection site,Pfizer-BioNTech,1,17765
+any injection site reaction,pain,Moderna,1,1416769
+any injection site reaction,redness,Moderna,1,147317
+any injection site reaction,swelling,Moderna,1,269462
+any injection site reaction,itching,Moderna,1,134955
+any systemic reaction,fatigure,Moderna,1,644492
+any systemic reaction,headache,Moderna,1,534248
+any systemic reaction,myalgia,Moderna,1,423357
+any systemic reaction,chills,Moderna,1,204975
+any systemic reaction,fever,Moderna,1,197725
+any systemic reaction,joint pain,Moderna,1,193715
+any systemic reaction,nausea,Moderna,1,161336
+any systemic reaction,vomiting,Moderna,1,15459
+any systemic reaction,diarrhea,Moderna,1,106862
+any systemic reaction,abdominal pain,Moderna,1,63948
+any systemic reaction,rash outside of injection site,Moderna,1,24664
+any injection site reaction,pain,Pfizer-BioNTech,2,645917
+any injection site reaction,redness,Pfizer-BioNTech,2,57956
+any injection site reaction,swelling,Pfizer-BioNTech,2,100430
+any injection site reaction,itching,Pfizer-BioNTech,2,60946
+any systemic reaction,fatigure,Pfizer-BioNTech,2,464659
+any systemic reaction,headache,Pfizer-BioNTech,2,392266
+any systemic reaction,myalgia,Pfizer-BioNTech,2,357381
+any systemic reaction,chills,Pfizer-BioNTech,2,220831
+any systemic reaction,fever,Pfizer-BioNTech,2,208976
+any systemic reaction,joint pain,Pfizer-BioNTech,2,192926
+any systemic reaction,nausea,Pfizer-BioNTech,2,127454
+any systemic reaction,vomiting,Pfizer-BioNTech,2,11276
+any systemic reaction,diarrhea,Pfizer-BioNTech,2,60641
+any systemic reaction,abdominal pain,Pfizer-BioNTech,2,48129
+any systemic reaction,rash outside of injection site,Pfizer-BioNTech,2,13132
+any injection site reaction,pain,Moderna,2,743712
+any injection site reaction,redness,Moderna,2,182309
+any injection site reaction,swelling,Moderna,2,248556
+any injection site reaction,itching,Moderna,2,153712
+any systemic reaction,fatigure,Moderna,2,569803
+any systemic reaction,headache,Moderna,2,504739
+any systemic reaction,myalgia,Moderna,2,487933
+any systemic reaction,chills,Moderna,2,379523
+any systemic reaction,fever,Moderna,2,357136
+any systemic reaction,joint pain,Moderna,2,299105
+any systemic reaction,nausea,Moderna,2,191794
+any systemic reaction,vomiting,Moderna,2,19780
+any systemic reaction,diarrhea,Moderna,2,73236
+any systemic reaction,abdominal pain,Moderna,2,69365
+any systemic reaction,rash outside of injection site,Moderna,2,19554
