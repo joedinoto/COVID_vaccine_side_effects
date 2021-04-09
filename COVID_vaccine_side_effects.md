@@ -53,3 +53,20 @@ df %>%
 ```
 
 ![](COVID_vaccine_side_effects_files/figure-html/unnamed-chunk-4-1.png)<!-- -->
+
+```r
+df %>%  
+  group_by(Vaccine,Dose) %>%
+  mutate(pct= prop.table(number)) %>%
+  mutate(symptom = fct_reorder(symptom, pct)) %>%
+  ggplot(aes(symptom,pct,fill=symptom.type)) +
+  geom_col(position="dodge") +
+  facet_grid(vars(Dose),vars(Vaccine))+
+  scale_y_continuous(labels = percent)+
+  labs(title="% reported symptoms after 1st and 2nd dose \n of two major COVID vaccines",
+       x="",
+       y="number of reported symptoms (per million)")+
+  coord_flip() 
+```
+
+![](COVID_vaccine_side_effects_files/figure-html/unnamed-chunk-5-1.png)<!-- -->
